@@ -1,2 +1,2 @@
 # blockchain-colours-fe
-Blockchani client using React
+Blockchain client using React
